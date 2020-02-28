@@ -1,0 +1,22 @@
+div {
+    color: blue;
+    padding: 5px;
+    margin: auto;
+}
+
+body {
+    display: flex;
+    margin: 0px;
+    height: 100vh;
+}
+.squareOne{
+background-color: brown;
+}
+
+.squaretwo{
+    background-color:khaki;
+}
+
+.squareThree{
+    background-color: rgb(56, 165, 42)
+}
